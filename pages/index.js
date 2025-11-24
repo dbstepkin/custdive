@@ -49,16 +49,12 @@ export default function Home() {
               <div className="flex items-center gap-4">
                 <a
                   href="https://my.custdive.com/login"
-                  target="_blank"
-                  rel="noopener noreferrer"
                   className="px-6 py-2.5 glass glass-hover text-purple-700 rounded-lg font-semibold transition-all duration-300 shadow-soft hover:shadow-soft-lg"
                 >
                   Login
                 </a>
                 <a
                   href="https://my.custdive.com/signup"
-                  target="_blank"
-                  rel="noopener noreferrer"
                   className="px-6 py-2.5 bg-gradient-to-r from-purple-600 to-purple-700 text-white rounded-lg font-semibold hover:from-purple-700 hover:to-purple-800 transition-all duration-300 shadow-glow hover:shadow-glow-lg"
                 >
                   Sign Up
@@ -81,8 +77,6 @@ export default function Home() {
               <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
                 <a
                   href="https://my.custdive.com/signup"
-                  target="_blank"
-                  rel="noopener noreferrer"
                   className="w-full sm:w-auto px-10 py-4 bg-gradient-to-r from-purple-600 to-purple-700 text-white rounded-xl font-semibold hover:from-purple-700 hover:to-purple-800 transition-all duration-300 shadow-glow hover:shadow-glow-lg transform hover:-translate-y-1 hover:scale-105 text-center"
                 >
                   Start Research
@@ -281,8 +275,6 @@ export default function Home() {
                 <div className="mt-auto">
                   <a
                     href="https://my.custdive.com/signup"
-                    target="_blank"
-                    rel="noopener noreferrer"
                     className="block w-full px-6 py-4 bg-gradient-to-r from-purple-600 to-purple-700 text-white rounded-xl font-semibold hover:from-purple-700 hover:to-purple-800 transition-all duration-300 shadow-glow hover:shadow-glow-lg text-center"
                   >
                     Request Invitation
@@ -321,8 +313,6 @@ export default function Home() {
                 <div className="mt-auto">
                   <a
                     href="https://my.custdive.com/signup"
-                    target="_blank"
-                    rel="noopener noreferrer"
                     className="block w-full px-6 py-4 bg-gradient-to-r from-orange-600 to-orange-700 text-white rounded-xl font-semibold hover:from-orange-700 hover:to-orange-800 transition-all duration-300 shadow-glow hover:shadow-glow-lg text-center"
                   >
                     Get Started
@@ -361,8 +351,6 @@ export default function Home() {
                 <div className="mt-auto">
                   <a
                     href="https://my.custdive.com/signup"
-                    target="_blank"
-                    rel="noopener noreferrer"
                     className="block w-full px-6 py-4 bg-gradient-to-r from-green-600 to-green-700 text-white rounded-xl font-semibold hover:from-green-700 hover:to-green-800 transition-all duration-300 shadow-glow hover:shadow-glow-lg text-center"
                   >
                     Get Started
