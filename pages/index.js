@@ -7,12 +7,12 @@ export default function Home() {
   
   const screenshots = [
     {
-      src: '/images/screenshot-quotes.png',
-      alt: 'CustDive - Quotations from group analysis'
-    },
-    {
       src: '/images/screenshot-dashboard.png',
       alt: 'CustDive Dashboard - Research Results Analysis'
+    },
+    {
+      src: '/images/screenshot-quotes.png',
+      alt: 'CustDive - Quotations from group analysis'
     }
   ];
 
