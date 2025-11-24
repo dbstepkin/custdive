@@ -1,8 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  output: 'standalone',
-  // Для Vercel важно явно указать, что мы используем Pages Router
+  // Убеждаемся, что Vercel правильно обрабатывает Pages Router
   trailingSlash: false,
 }
 
