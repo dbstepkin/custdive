@@ -214,7 +214,7 @@ export default function Home() {
                   <span className="text-5xl font-bold bg-gradient-to-br from-purple-600 to-purple-700 bg-clip-text text-transparent relative z-10">1</span>
                 </div>
                 <p className="text-xl text-gray-800 leading-relaxed font-semibold">
-                  Choose a niche or competitor to analyze.
+                  Formulate a pain point to validate.
                 </p>
               </div>
               <div className="text-center group">
@@ -232,7 +232,7 @@ export default function Home() {
                   <span className="text-5xl font-bold bg-gradient-to-br from-purple-600 to-purple-700 bg-clip-text text-transparent relative z-10">3</span>
                 </div>
                 <p className="text-xl text-gray-800 leading-relaxed font-semibold">
-                  Receive a report of unmet needs, complaints, and actionable insights.
+                  Receive a report of unmet needs and complaints with all source links.
                 </p>
               </div>
             </div>
